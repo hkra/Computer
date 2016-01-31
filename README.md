@@ -10,7 +10,7 @@ This implementation of the computer simulator makes the following assumptions:
 - Doesn't care about overflow from arithmetic operations (similar to x86's `imul` instruction).
 
 ### Computer.Tests
-This project contains unit tests for computer components. Code coverage is 99.41%.
+This project contains unit tests for computer components.
 
 ### Driver
 Driver is a test program that uses the Computer library.
